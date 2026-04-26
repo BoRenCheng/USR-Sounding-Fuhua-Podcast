@@ -31,3 +31,8 @@
 
 獲獎獎項：佳作 [USR競賽](USR競賽.jpg)
 
+---
+## 授權
+Copyright (c) 2026 Bo-Ren Cheng(BoRenCheng)
+
+本專案採用 MIT License 授權。
